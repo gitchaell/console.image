@@ -1,4 +1,4 @@
-# ConsoleImage
+# console.image()
 
 Muestra imágenes directamente en la consola del navegador usando `console.log` y estilos en línea. Perfecto para easter eggs, branding o simplemente impresionar en las DevTools.
 
